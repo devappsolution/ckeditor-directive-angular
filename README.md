@@ -1,5 +1,5 @@
-# ckeditor-directive-angularJs
-Directive CkEditor AngularJs
+# ckeditor-directive-angularJS
+Directive CkEditor AngularJS
 
 # Dependencies
 <pre>
