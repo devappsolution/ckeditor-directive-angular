@@ -9,6 +9,9 @@ CKEditor 4.6.2
 
 # Basic Usage
 <pre>
-<textarea data-app-ckeditor="noticias.noticia.conteudo" required></textarea>
+<textarea data-app-ckeditor="controller.content"></textarea>
+
+ filebrowserBrowseUrl: "CUSTOM URL BROWSE"
+ filebrowserUploadUrl: "CUSTOM URL UPLOAD"
 </pre>
 
