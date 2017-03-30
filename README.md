@@ -9,5 +9,5 @@ CKEditor 4.6.2
 
 # Usage
 
-***  <textarea data-app-ckeditor="noticias.noticia.conteudo" required></textarea>
+--- <textarea data-app-ckeditor="noticias.noticia.conteudo" required></textarea>
 
