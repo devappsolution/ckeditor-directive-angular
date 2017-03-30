@@ -10,8 +10,15 @@ CKEditor 4.6.2
 # Basic Usage
 <pre>
 <textarea data-app-ckeditor="controller.content"></textarea>
+</pre>
 
- filebrowserBrowseUrl: "CUSTOM URL BROWSE"
- filebrowserUploadUrl: "CUSTOM URL UPLOAD"
+# Config
+
+<pre>
+
+Open a directive and set a custom url for:
+
+filebrowserBrowseUrl: "CUSTOM URL BROWSE"
+filebrowserUploadUrl: "CUSTOM URL UPLOAD"
 </pre>
 
