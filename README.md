@@ -9,8 +9,8 @@ CKEditor 4.6.2
 
 # Usage
 <pre>
-<span class="pl-k"><textarea></span>
-   data-app-ckeditor="controller.content" required>
-   <span class="pl-k"></textarea></span>
+```html
+<textarea data-app-ckeditor="controller.content" required></textarea>
+   ´´´
 </pre>
 
