@@ -8,6 +8,6 @@ CKEditor 4.6.2
 </pre>
 
 # Usage
-***
-  <textarea data-app-ckeditor="noticias.noticia.conteudo" required></textarea>
+
+***  <textarea data-app-ckeditor="noticias.noticia.conteudo" required></textarea>
 
