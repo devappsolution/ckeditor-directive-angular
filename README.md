@@ -8,8 +8,8 @@ CKEditor 4.6.2
 </pre>
 
 # Usage
-
+```javascript
   for (int i = 0; i< 2; i++){
   }
-
+´´´
 
